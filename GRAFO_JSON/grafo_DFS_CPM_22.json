@@ -1,0 +1,2018 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "CPM 22"
+        },
+        {
+            "id": "Dead Fish"
+        },
+        {
+            "id": "Sugar Kane"
+        },
+        {
+            "id": "Garage Fuzz"
+        },
+        {
+            "id": "Pense"
+        },
+        {
+            "id": "Dance of Days"
+        },
+        {
+            "id": "Zander"
+        },
+        {
+            "id": "Street Bulldogs"
+        },
+        {
+            "id": "Cueio Lim\u00e3o"
+        },
+        {
+            "id": "Hateen"
+        },
+        {
+            "id": "Blind Pigs"
+        },
+        {
+            "id": "Mukeka di Rato"
+        },
+        {
+            "id": "Chuva Negra"
+        },
+        {
+            "id": "Bullet Bane"
+        },
+        {
+            "id": "Gritando HC"
+        },
+        {
+            "id": "Rancore"
+        },
+        {
+            "id": "menores atos"
+        },
+        {
+            "id": "No\u00e7\u00e3o de Nada"
+        },
+        {
+            "id": "Nitrominds"
+        },
+        {
+            "id": "Houdini"
+        },
+        {
+            "id": "Plastic Fire"
+        },
+        {
+            "id": "Fistt"
+        },
+        {
+            "id": "Detonautas Roque Clube"
+        },
+        {
+            "id": "Tihuana"
+        },
+        {
+            "id": "Raimundos"
+        },
+        {
+            "id": "Papas Da L\u00edngua"
+        },
+        {
+            "id": "Ls Jack"
+        },
+        {
+            "id": "NX Zero"
+        },
+        {
+            "id": "Capital Inicial"
+        },
+        {
+            "id": "Frejat"
+        },
+        {
+            "id": "Biquini Cavad\u00e3o"
+        },
+        {
+            "id": "Pitty"
+        },
+        {
+            "id": "Mamonas Assassinas"
+        },
+        {
+            "id": "Bar\u00e3o Vermelho"
+        },
+        {
+            "id": "Nenhum De N\u00f3s"
+        },
+        {
+            "id": "O Surto"
+        },
+        {
+            "id": "Chimarruts"
+        },
+        {
+            "id": "Jota Quest"
+        },
+        {
+            "id": "Gabriel O Pensador"
+        },
+        {
+            "id": "Cidade Negra"
+        },
+        {
+            "id": "Ira!"
+        },
+        {
+            "id": "Ultraje a Rigor"
+        },
+        {
+            "id": "Strike"
+        },
+        {
+            "id": "Hevo 84"
+        },
+        {
+            "id": "Cine"
+        },
+        {
+            "id": "Darvin"
+        },
+        {
+            "id": "Scracho"
+        },
+        {
+            "id": "Fake Number"
+        },
+        {
+            "id": "Replace"
+        },
+        {
+            "id": "Hori"
+        },
+        {
+            "id": "Catch Side"
+        },
+        {
+            "id": "Dibob"
+        },
+        {
+            "id": "Forfun"
+        },
+        {
+            "id": "Gloria"
+        },
+        {
+            "id": "CW7"
+        },
+        {
+            "id": "Fresno"
+        },
+        {
+            "id": "Restart"
+        },
+        {
+            "id": "Ivo Mozart"
+        },
+        {
+            "id": "Stevens"
+        },
+        {
+            "id": "Seu Cuca"
+        },
+        {
+            "id": "Envydust"
+        },
+        {
+            "id": "Beeshop"
+        },
+        {
+            "id": "Aditive"
+        },
+        {
+            "id": "Di Ferrero"
+        },
+        {
+            "id": "Malta"
+        },
+        {
+            "id": "Onze:20"
+        },
+        {
+            "id": "Marjorie Estiano"
+        },
+        {
+            "id": "BRAZA"
+        },
+        {
+            "id": "IZENZ\u00ca\u00ca"
+        },
+        {
+            "id": "Matanza"
+        },
+        {
+            "id": "Velhas Virgens"
+        },
+        {
+            "id": "Planet Hemp"
+        },
+        {
+            "id": "Camisa de V\u00eanus"
+        },
+        {
+            "id": "Marcelo D2"
+        },
+        {
+            "id": "Tit\u00e3s"
+        },
+        {
+            "id": "Engenheiros Do Hawaii"
+        },
+        {
+            "id": "Os Paralamas Do Sucesso"
+        },
+        {
+            "id": "Visconde"
+        },
+        {
+            "id": "Esteban Tavares"
+        },
+        {
+            "id": "Lucas Silveira"
+        },
+        {
+            "id": "Scalene"
+        },
+        {
+            "id": "Supercombo"
+        },
+        {
+            "id": "T\u00f3paz"
+        },
+        {
+            "id": "Carbona"
+        },
+        {
+            "id": "Level Nine"
+        },
+        {
+            "id": "Agridoce"
+        },
+        {
+            "id": "C\u00e1ssia Eller"
+        },
+        {
+            "id": "Clarice Falc\u00e3o"
+        },
+        {
+            "id": "Cazuza"
+        },
+        {
+            "id": "Los Hermanos"
+        },
+        {
+            "id": "Ti\u00ea"
+        },
+        {
+            "id": "Kid Abelha"
+        },
+        {
+            "id": "Lux\u00faria"
+        },
+        {
+            "id": "Pabllo Vittar"
+        },
+        {
+            "id": "IZA"
+        },
+        {
+            "id": "Lexa"
+        },
+        {
+            "id": "Lu\u00edsa Sonza"
+        },
+        {
+            "id": "PEDRO SAMPAIO"
+        },
+        {
+            "id": "Lia Clark"
+        },
+        {
+            "id": "LUDMILLA"
+        },
+        {
+            "id": "Aretuza Lovi"
+        },
+        {
+            "id": "Mateus Carrilho"
+        },
+        {
+            "id": "J\u00e3o"
+        },
+        {
+            "id": "Jojo Maronttinni"
+        },
+        {
+            "id": "POCAH"
+        },
+        {
+            "id": "Linn da Quebrada"
+        },
+        {
+            "id": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o"
+        },
+        {
+            "id": "Kaya Conky"
+        },
+        {
+            "id": "Tain\u00e1 Costa"
+        },
+        {
+            "id": "MC Mirella"
+        },
+        {
+            "id": "Urias"
+        },
+        {
+            "id": "Anitta"
+        },
+        {
+            "id": "DUDA BEAT"
+        },
+        {
+            "id": "Emoponto"
+        },
+        {
+            "id": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "id": "Comunidade Nin-jitsu"
+        },
+        {
+            "id": "Ac\u00fasticos & Valvulados"
+        },
+        {
+            "id": "Tequila Baby"
+        },
+        {
+            "id": "Rosa Tattooada"
+        },
+        {
+            "id": "Cidad\u00e3o Quem"
+        },
+        {
+            "id": "Bid\u00ea ou Balde"
+        },
+        {
+            "id": "Vera Loca"
+        },
+        {
+            "id": "Maria do Relento"
+        },
+        {
+            "id": "Ultramen"
+        },
+        {
+            "id": "Cachorro Grande"
+        },
+        {
+            "id": "Anjos Do Hanngar"
+        },
+        {
+            "id": "Pouca Vogal"
+        },
+        {
+            "id": "Tianastacia"
+        },
+        {
+            "id": "Maskavo"
+        },
+        {
+            "id": "Tribo De Jah"
+        },
+        {
+            "id": "Pedra Leticia"
+        },
+        {
+            "id": "Planta E Raiz"
+        },
+        {
+            "id": "RPM"
+        },
+        {
+            "id": "Skank"
+        },
+        {
+            "id": "Renato Russo"
+        },
+        {
+            "id": "Lulu Santos"
+        },
+        {
+            "id": "Massacration"
+        },
+        {
+            "id": "Jimmy & Rats"
+        },
+        {
+            "id": "Motorocker"
+        },
+        {
+            "id": "Matanza Inc"
+        },
+        {
+            "id": "Matanza Ritual"
+        },
+        {
+            "id": "Supla"
+        },
+        {
+            "id": "Cracker Blues"
+        },
+        {
+            "id": "Zumbis Do Espa\u00e7o"
+        },
+        {
+            "id": "Ratos De Por\u00e3o"
+        },
+        {
+            "id": "Project46"
+        },
+        {
+            "id": "Raul Seixas"
+        },
+        {
+            "id": "Aliados 13"
+        },
+        {
+            "id": "Offline"
+        },
+        {
+            "id": "Diwali"
+        },
+        {
+            "id": "B5"
+        },
+        {
+            "id": "Edu Ribeiro"
+        },
+        {
+            "id": "Armandinho"
+        },
+        {
+            "id": "Filosofia Reggae"
+        },
+        {
+            "id": "Circulad\u00f4 de Ful\u00f4"
+        },
+        {
+            "id": "Ponto De Equil\u00edbrio"
+        },
+        {
+            "id": "Mato Seco"
+        },
+        {
+            "id": "Natiruts"
+        },
+        {
+            "id": "Maneva"
+        }
+    ],
+    "links": [
+        {
+            "source": "CPM 22",
+            "target": "Dead Fish"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Detonautas Roque Clube"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Strike"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Hateen"
+        },
+        {
+            "source": "CPM 22",
+            "target": "NX Zero"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Forfun"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Raimundos"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Fresno"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Sugar Kane"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Pitty"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Gloria"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Tihuana"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Capital Inicial"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Matanza"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Mamonas Assassinas"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Scracho"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Dibob"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Chimarruts"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Sugar Kane"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Garage Fuzz"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Pense"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Dance of Days"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Zander"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Street Bulldogs"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Hateen"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Blind Pigs"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Mukeka di Rato"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Chuva Negra"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Bullet Bane"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Gritando HC"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Rancore"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "menores atos"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "No\u00e7\u00e3o de Nada"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Nitrominds"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Houdini"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Plastic Fire"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Fistt"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Forfun"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Matanza"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Dibob"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Hateen"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Forfun"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Fistt"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Dance of Days"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Houdini"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Aditive"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Street Bulldogs"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Zander"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Chuva Negra"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Garage Fuzz"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "No\u00e7\u00e3o de Nada"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Envydust"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Nitrominds"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Plastic Fire"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Pense"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Carbona"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Blind Pigs"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Bullet Bane"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Rancore"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Level Nine"
+        },
+        {
+            "source": "Sugar Kane",
+            "target": "Dibob"
+        },
+        {
+            "source": "Garage Fuzz",
+            "target": "Hateen"
+        },
+        {
+            "source": "Garage Fuzz",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "Pense",
+            "target": "Hateen"
+        },
+        {
+            "source": "Pense",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "Dance of Days",
+            "target": "Hateen"
+        },
+        {
+            "source": "Dance of Days",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "Dance of Days",
+            "target": "Dibob"
+        },
+        {
+            "source": "Zander",
+            "target": "Hateen"
+        },
+        {
+            "source": "Zander",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "Street Bulldogs",
+            "target": "Hateen"
+        },
+        {
+            "source": "Street Bulldogs",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Strike"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Hateen"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Forfun"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Houdini"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Fistt"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Dibob"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Carbona"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Chuva Negra"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Envydust"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Darvin"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Emoponto"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Aditive"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Blind Pigs"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Gritando HC"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Nitrominds"
+        },
+        {
+            "source": "Cueio Lim\u00e3o",
+            "target": "Scracho"
+        },
+        {
+            "source": "Hateen",
+            "target": "Strike"
+        },
+        {
+            "source": "Hateen",
+            "target": "Houdini"
+        },
+        {
+            "source": "Hateen",
+            "target": "Dibob"
+        },
+        {
+            "source": "Hateen",
+            "target": "Darvin"
+        },
+        {
+            "source": "Hateen",
+            "target": "Gloria"
+        },
+        {
+            "source": "Hateen",
+            "target": "Envydust"
+        },
+        {
+            "source": "Hateen",
+            "target": "Chuva Negra"
+        },
+        {
+            "source": "Hateen",
+            "target": "Fake Number"
+        },
+        {
+            "source": "Hateen",
+            "target": "Fistt"
+        },
+        {
+            "source": "Hateen",
+            "target": "Beeshop"
+        },
+        {
+            "source": "Hateen",
+            "target": "Rancore"
+        },
+        {
+            "source": "Hateen",
+            "target": "Hevo 84"
+        },
+        {
+            "source": "Hateen",
+            "target": "Aditive"
+        },
+        {
+            "source": "Hateen",
+            "target": "NX Zero"
+        },
+        {
+            "source": "Hateen",
+            "target": "Forfun"
+        },
+        {
+            "source": "Hateen",
+            "target": "Fresno"
+        },
+        {
+            "source": "Hateen",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "Hateen",
+            "target": "Scracho"
+        },
+        {
+            "source": "Rancore",
+            "target": "Forfun"
+        },
+        {
+            "source": "Rancore",
+            "target": "Fresno"
+        },
+        {
+            "source": "Houdini",
+            "target": "Dibob"
+        },
+        {
+            "source": "Fistt",
+            "target": "Dibob"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Tihuana"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Raimundos"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Papas Da L\u00edngua"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Ls Jack"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "NX Zero"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Capital Inicial"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Frejat"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Biquini Cavad\u00e3o"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Pitty"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Mamonas Assassinas"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Bar\u00e3o Vermelho"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Nenhum De N\u00f3s"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "O Surto"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Chimarruts"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Jota Quest"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Gabriel O Pensador"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Cidade Negra"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Ira!"
+        },
+        {
+            "source": "Detonautas Roque Clube",
+            "target": "Ultraje a Rigor"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Raimundos"
+        },
+        {
+            "source": "Tihuana",
+            "target": "O Surto"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Tianastacia"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Ultraje a Rigor"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Velhas Virgens"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Maskavo"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Tribo De Jah"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Planet Hemp"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Papas Da L\u00edngua"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Mamonas Assassinas"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Camisa de V\u00eanus"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Pedra Leticia"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Gabriel O Pensador"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Ira!"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Biquini Cavad\u00e3o"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Cidade Negra"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Chimarruts"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Planta E Raiz"
+        },
+        {
+            "source": "Tihuana",
+            "target": "Ls Jack"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Matanza"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Ultraje a Rigor"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Mamonas Assassinas"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Velhas Virgens"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Planet Hemp"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Gabriel O Pensador"
+        },
+        {
+            "source": "Raimundos",
+            "target": "O Surto"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Ira!"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Bar\u00e3o Vermelho"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Camisa de V\u00eanus"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Marcelo D2"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Tit\u00e3s"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Capital Inicial"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Biquini Cavad\u00e3o"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Engenheiros Do Hawaii"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Nenhum De N\u00f3s"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Os Paralamas Do Sucesso"
+        },
+        {
+            "source": "Raimundos",
+            "target": "Pitty"
+        },
+        {
+            "source": "Papas Da L\u00edngua",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "Papas Da L\u00edngua",
+            "target": "Chimarruts"
+        },
+        {
+            "source": "Ls Jack",
+            "target": "NX Zero"
+        },
+        {
+            "source": "Ls Jack",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Strike"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Fresno"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Hevo 84"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Cine"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Di Ferrero"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Restart"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Malta"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Gloria"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Scracho"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Onze:20"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Pitty"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Forfun"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Fake Number"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Ivo Mozart"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Hori"
+        },
+        {
+            "source": "NX Zero",
+            "target": "Marjorie Estiano"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Pitty"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Tit\u00e3s"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Biquini Cavad\u00e3o"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Bar\u00e3o Vermelho"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Os Paralamas Do Sucesso"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Jota Quest"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Ira!"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Engenheiros Do Hawaii"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Nenhum De N\u00f3s"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Frejat"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "RPM"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Ultraje a Rigor"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Kid Abelha"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Skank"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Cidade Negra"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Renato Russo"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Cazuza"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "C\u00e1ssia Eller"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Lulu Santos"
+        },
+        {
+            "source": "Capital Inicial",
+            "target": "Mamonas Assassinas"
+        },
+        {
+            "source": "Frejat",
+            "target": "Pitty"
+        },
+        {
+            "source": "Biquini Cavad\u00e3o",
+            "target": "Mamonas Assassinas"
+        },
+        {
+            "source": "Pitty",
+            "target": "Agridoce"
+        },
+        {
+            "source": "Pitty",
+            "target": "Fresno"
+        },
+        {
+            "source": "Pitty",
+            "target": "C\u00e1ssia Eller"
+        },
+        {
+            "source": "Pitty",
+            "target": "Mamonas Assassinas"
+        },
+        {
+            "source": "Pitty",
+            "target": "Clarice Falc\u00e3o"
+        },
+        {
+            "source": "Pitty",
+            "target": "Cazuza"
+        },
+        {
+            "source": "Pitty",
+            "target": "Los Hermanos"
+        },
+        {
+            "source": "Pitty",
+            "target": "Chimarruts"
+        },
+        {
+            "source": "Pitty",
+            "target": "Marjorie Estiano"
+        },
+        {
+            "source": "Pitty",
+            "target": "Ti\u00ea"
+        },
+        {
+            "source": "Pitty",
+            "target": "Tit\u00e3s"
+        },
+        {
+            "source": "Pitty",
+            "target": "Kid Abelha"
+        },
+        {
+            "source": "Pitty",
+            "target": "Supercombo"
+        },
+        {
+            "source": "Pitty",
+            "target": "Lux\u00faria"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Matanza"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Ultraje a Rigor"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Gabriel O Pensador"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Pedra Leticia"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Velhas Virgens"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Bar\u00e3o Vermelho"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Cazuza"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "RPM"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Raul Seixas"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Tit\u00e3s"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Cidade Negra"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Os Paralamas Do Sucesso"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Engenheiros Do Hawaii"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Nenhum De N\u00f3s"
+        },
+        {
+            "source": "Mamonas Assassinas",
+            "target": "Marcelo D2"
+        },
+        {
+            "source": "O Surto",
+            "target": "Matanza"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Maskavo"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Edu Ribeiro"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Tribo De Jah"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Planta E Raiz"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Armandinho"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Filosofia Reggae"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Circulad\u00f4 de Ful\u00f4"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Ponto De Equil\u00edbrio"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Onze:20"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Mato Seco"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Natiruts"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Cidade Negra"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Maneva"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Gabriel O Pensador"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Marcelo D2"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Scracho"
+        },
+        {
+            "source": "Chimarruts",
+            "target": "Seu Cuca"
+        },
+        {
+            "source": "Ultraje a Rigor",
+            "target": "Matanza"
+        },
+        {
+            "source": "Strike",
+            "target": "Hevo 84"
+        },
+        {
+            "source": "Strike",
+            "target": "Cine"
+        },
+        {
+            "source": "Strike",
+            "target": "Darvin"
+        },
+        {
+            "source": "Strike",
+            "target": "Scracho"
+        },
+        {
+            "source": "Strike",
+            "target": "Fake Number"
+        },
+        {
+            "source": "Strike",
+            "target": "Replace"
+        },
+        {
+            "source": "Strike",
+            "target": "Hori"
+        },
+        {
+            "source": "Strike",
+            "target": "Catch Side"
+        },
+        {
+            "source": "Strike",
+            "target": "Dibob"
+        },
+        {
+            "source": "Strike",
+            "target": "Forfun"
+        },
+        {
+            "source": "Strike",
+            "target": "Gloria"
+        },
+        {
+            "source": "Strike",
+            "target": "CW7"
+        },
+        {
+            "source": "Strike",
+            "target": "Fresno"
+        },
+        {
+            "source": "Strike",
+            "target": "Restart"
+        },
+        {
+            "source": "Strike",
+            "target": "Ivo Mozart"
+        },
+        {
+            "source": "Strike",
+            "target": "Stevens"
+        },
+        {
+            "source": "Strike",
+            "target": "Seu Cuca"
+        },
+        {
+            "source": "Strike",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "Hevo 84",
+            "target": "Forfun"
+        },
+        {
+            "source": "Hevo 84",
+            "target": "Fresno"
+        },
+        {
+            "source": "Hevo 84",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "Hevo 84",
+            "target": "Scracho"
+        },
+        {
+            "source": "Cine",
+            "target": "Forfun"
+        },
+        {
+            "source": "Cine",
+            "target": "Fresno"
+        },
+        {
+            "source": "Cine",
+            "target": "Scracho"
+        },
+        {
+            "source": "Darvin",
+            "target": "Forfun"
+        },
+        {
+            "source": "Darvin",
+            "target": "Fresno"
+        },
+        {
+            "source": "Darvin",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "Darvin",
+            "target": "Scracho"
+        },
+        {
+            "source": "Darvin",
+            "target": "Dibob"
+        },
+        {
+            "source": "Scracho",
+            "target": "Forfun"
+        },
+        {
+            "source": "Scracho",
+            "target": "Fresno"
+        },
+        {
+            "source": "Scracho",
+            "target": "Catch Side"
+        },
+        {
+            "source": "Scracho",
+            "target": "Dibob"
+        },
+        {
+            "source": "Scracho",
+            "target": "Replace"
+        },
+        {
+            "source": "Scracho",
+            "target": "Fake Number"
+        },
+        {
+            "source": "Scracho",
+            "target": "Seu Cuca"
+        },
+        {
+            "source": "Scracho",
+            "target": "Hori"
+        },
+        {
+            "source": "Scracho",
+            "target": "Ivo Mozart"
+        },
+        {
+            "source": "Scracho",
+            "target": "Gloria"
+        },
+        {
+            "source": "Scracho",
+            "target": "Beeshop"
+        },
+        {
+            "source": "Scracho",
+            "target": "Onze:20"
+        },
+        {
+            "source": "Scracho",
+            "target": "BRAZA"
+        },
+        {
+            "source": "Scracho",
+            "target": "Maskavo"
+        },
+        {
+            "source": "Fake Number",
+            "target": "Forfun"
+        },
+        {
+            "source": "Fake Number",
+            "target": "Fresno"
+        },
+        {
+            "source": "Fake Number",
+            "target": "Dibob"
+        },
+        {
+            "source": "Replace",
+            "target": "Forfun"
+        },
+        {
+            "source": "Replace",
+            "target": "Fresno"
+        },
+        {
+            "source": "Hori",
+            "target": "Fresno"
+        },
+        {
+            "source": "Catch Side",
+            "target": "Forfun"
+        },
+        {
+            "source": "Catch Side",
+            "target": "Dibob"
+        },
+        {
+            "source": "Dibob",
+            "target": "Forfun"
+        },
+        {
+            "source": "Dibob",
+            "target": "Emoponto"
+        },
+        {
+            "source": "Dibob",
+            "target": "Aliados 13"
+        },
+        {
+            "source": "Dibob",
+            "target": "Offline"
+        },
+        {
+            "source": "Dibob",
+            "target": "Seu Cuca"
+        },
+        {
+            "source": "Dibob",
+            "target": "Diwali"
+        },
+        {
+            "source": "Dibob",
+            "target": "Carbona"
+        },
+        {
+            "source": "Dibob",
+            "target": "B5"
+        },
+        {
+            "source": "Forfun",
+            "target": "BRAZA"
+        },
+        {
+            "source": "Forfun",
+            "target": "Gloria"
+        },
+        {
+            "source": "Forfun",
+            "target": "Fresno"
+        },
+        {
+            "source": "Forfun",
+            "target": "Seu Cuca"
+        },
+        {
+            "source": "Forfun",
+            "target": "IZENZ\u00ca\u00ca"
+        },
+        {
+            "source": "Forfun",
+            "target": "Beeshop"
+        },
+        {
+            "source": "Gloria",
+            "target": "Fresno"
+        },
+        {
+            "source": "Gloria",
+            "target": "Pabllo Vittar"
+        },
+        {
+            "source": "Gloria",
+            "target": "IZA"
+        },
+        {
+            "source": "Gloria",
+            "target": "Lexa"
+        },
+        {
+            "source": "Gloria",
+            "target": "Lu\u00edsa Sonza"
+        },
+        {
+            "source": "Gloria",
+            "target": "PEDRO SAMPAIO"
+        },
+        {
+            "source": "Gloria",
+            "target": "Lia Clark"
+        },
+        {
+            "source": "Gloria",
+            "target": "LUDMILLA"
+        },
+        {
+            "source": "Gloria",
+            "target": "Aretuza Lovi"
+        },
+        {
+            "source": "Gloria",
+            "target": "Mateus Carrilho"
+        },
+        {
+            "source": "Gloria",
+            "target": "J\u00e3o"
+        },
+        {
+            "source": "Gloria",
+            "target": "Jojo Maronttinni"
+        },
+        {
+            "source": "Gloria",
+            "target": "POCAH"
+        },
+        {
+            "source": "Gloria",
+            "target": "Linn da Quebrada"
+        },
+        {
+            "source": "Gloria",
+            "target": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o"
+        },
+        {
+            "source": "Gloria",
+            "target": "Kaya Conky"
+        },
+        {
+            "source": "Gloria",
+            "target": "Tain\u00e1 Costa"
+        },
+        {
+            "source": "Gloria",
+            "target": "MC Mirella"
+        },
+        {
+            "source": "Gloria",
+            "target": "Urias"
+        },
+        {
+            "source": "Gloria",
+            "target": "Anitta"
+        },
+        {
+            "source": "Gloria",
+            "target": "DUDA BEAT"
+        },
+        {
+            "source": "Fresno",
+            "target": "Beeshop"
+        },
+        {
+            "source": "Fresno",
+            "target": "Visconde"
+        },
+        {
+            "source": "Fresno",
+            "target": "Esteban Tavares"
+        },
+        {
+            "source": "Fresno",
+            "target": "Lucas Silveira"
+        },
+        {
+            "source": "Fresno",
+            "target": "Scalene"
+        },
+        {
+            "source": "Fresno",
+            "target": "Supercombo"
+        },
+        {
+            "source": "Fresno",
+            "target": "T\u00f3paz"
+        },
+        {
+            "source": "Seu Cuca",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "Malta",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "Matanza",
+            "target": "Massacration"
+        },
+        {
+            "source": "Matanza",
+            "target": "Jimmy & Rats"
+        },
+        {
+            "source": "Matanza",
+            "target": "Velhas Virgens"
+        },
+        {
+            "source": "Matanza",
+            "target": "Motorocker"
+        },
+        {
+            "source": "Matanza",
+            "target": "Matanza Inc"
+        },
+        {
+            "source": "Matanza",
+            "target": "Matanza Ritual"
+        },
+        {
+            "source": "Matanza",
+            "target": "Cachorro Grande"
+        },
+        {
+            "source": "Matanza",
+            "target": "Tequila Baby"
+        },
+        {
+            "source": "Matanza",
+            "target": "Pedra Leticia"
+        },
+        {
+            "source": "Matanza",
+            "target": "Supla"
+        },
+        {
+            "source": "Matanza",
+            "target": "Cracker Blues"
+        },
+        {
+            "source": "Matanza",
+            "target": "Zumbis Do Espa\u00e7o"
+        },
+        {
+            "source": "Matanza",
+            "target": "Ratos De Por\u00e3o"
+        },
+        {
+            "source": "Matanza",
+            "target": "Project46"
+        },
+        {
+            "source": "Matanza",
+            "target": "Camisa de V\u00eanus"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Comunidade Nin-jitsu"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Ac\u00fasticos & Valvulados"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Tequila Baby"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Rosa Tattooada"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Cidad\u00e3o Quem"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Bid\u00ea ou Balde"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Vera Loca"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Maria do Relento"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Ultramen"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Cachorro Grande"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Anjos Do Hanngar"
+        },
+        {
+            "source": "Rea\u00e7\u00e3o Em Cadeia",
+            "target": "Pouca Vogal"
+        }
+    ]
+}
