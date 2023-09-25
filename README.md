@@ -67,7 +67,7 @@ pip install matplotlib
 1. Abra o arquivo grafo_spotify.ipynb no vscode. Utilize o jupyter-notebook no vscode acionando sua extensão.
 2. Execute o código Python fornecido para criar o grafo de artistas relacionados. Certifique-se de definir o `artist_name` desejado e a profundidade (`depth`) da busca.
 3. O grafo resultante será plotado e exibido na tela.
-4. O grafo também será exportado em um arquivo JSON chamado "grafo_artistas.json" no diretório atual.
+4. O grafo também será exportado em um arquivo JSON chamado "grafo_NomedoArtista.json" no diretório [GRAFO_SJON](./GRAFO_JSON).
 
 ## Exemplo
 
@@ -92,7 +92,19 @@ grafo_artistas = criar_grafo_artistas_relacionados(artista_inicial, depth=2)
 plotar_grafo(grafo_artistas)
 
 
+``````
 
 
+# Exemplo de Grafos 
 
+## grafo 01
+![Grafo 1](./assert/grafo.png)
 
+## grafo 02
+![Grafo 2](./assert/grafo1.png)
+
+## grafo 03
+![Grafo 3](./assert/grafo2.png)
+
+## grafo 04
+![Grafo 3](./assert/grafo3.png)
