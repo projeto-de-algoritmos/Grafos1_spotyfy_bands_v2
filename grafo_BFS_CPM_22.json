@@ -1,0 +1,283 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "CPM 22"
+        },
+        {
+            "id": "Dead Fish"
+        },
+        {
+            "id": "Detonautas Roque Clube"
+        },
+        {
+            "id": "Strike"
+        },
+        {
+            "id": "Hateen"
+        },
+        {
+            "id": "NX Zero"
+        },
+        {
+            "id": "Forfun"
+        },
+        {
+            "id": "Raimundos"
+        },
+        {
+            "id": "Fresno"
+        },
+        {
+            "id": "Sugar Kane"
+        },
+        {
+            "id": "Pitty"
+        },
+        {
+            "id": "Gloria"
+        },
+        {
+            "id": "Cueio Lim\u00e3o"
+        },
+        {
+            "id": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "id": "Tihuana"
+        },
+        {
+            "id": "Capital Inicial"
+        },
+        {
+            "id": "Matanza"
+        },
+        {
+            "id": "Mamonas Assassinas"
+        },
+        {
+            "id": "Scracho"
+        },
+        {
+            "id": "Dibob"
+        },
+        {
+            "id": "Chimarruts"
+        },
+        {
+            "id": "Garage Fuzz"
+        },
+        {
+            "id": "Pense"
+        },
+        {
+            "id": "Dance of Days"
+        },
+        {
+            "id": "Zander"
+        },
+        {
+            "id": "Street Bulldogs"
+        },
+        {
+            "id": "Blind Pigs"
+        },
+        {
+            "id": "Mukeka di Rato"
+        },
+        {
+            "id": "Chuva Negra"
+        },
+        {
+            "id": "Bullet Bane"
+        },
+        {
+            "id": "Gritando HC"
+        },
+        {
+            "id": "Rancore"
+        },
+        {
+            "id": "menores atos"
+        },
+        {
+            "id": "No\u00e7\u00e3o de Nada"
+        },
+        {
+            "id": "Nitrominds"
+        },
+        {
+            "id": "Houdini"
+        },
+        {
+            "id": "Plastic Fire"
+        },
+        {
+            "id": "Fistt"
+        }
+    ],
+    "links": [
+        {
+            "source": "CPM 22",
+            "target": "Dead Fish"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Detonautas Roque Clube"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Strike"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Hateen"
+        },
+        {
+            "source": "CPM 22",
+            "target": "NX Zero"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Forfun"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Raimundos"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Fresno"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Sugar Kane"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Pitty"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Gloria"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Rea\u00e7\u00e3o Em Cadeia"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Tihuana"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Capital Inicial"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Matanza"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Mamonas Assassinas"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Scracho"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Dibob"
+        },
+        {
+            "source": "CPM 22",
+            "target": "Chimarruts"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Sugar Kane"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Garage Fuzz"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Pense"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Dance of Days"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Zander"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Street Bulldogs"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Cueio Lim\u00e3o"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Hateen"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Blind Pigs"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Mukeka di Rato"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Chuva Negra"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Bullet Bane"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Gritando HC"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Rancore"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "menores atos"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "No\u00e7\u00e3o de Nada"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Nitrominds"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Houdini"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Plastic Fire"
+        },
+        {
+            "source": "Dead Fish",
+            "target": "Fistt"
+        }
+    ]
+}
