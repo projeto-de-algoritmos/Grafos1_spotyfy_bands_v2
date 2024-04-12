@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shortest Path Finder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: black;
+            color: white;
+            padding-top: 50px;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            position: relative;
+        }
+        .select-container {
+            position: absolute;
+            top: 20px;
+            left: 0;
+            right: 0;
+            background-color: black;
+            z-index: 1;
+            padding: 10px;
+        }
+        select {
+            padding: 10px;
+            font-size: 16px;
+            margin: 10px;
+            background-color: black;
+            color: white;
+        }
+        .images {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+        .placeholder {
+            width: 100px;
+            height: 100px;
+        }
+        img {
+            width: 250px;
+            height: 250px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="select-container">
+        <select id="artist1">
+            <option value="">Selecione um artista</option>
+        </select>
+        <select id="artist2">
+            <option value="">Selecione um artista</option>
+        </select>
+        <button onclick="mostrarMenorCaminho()">Encontrar Caminho</button>
+    </div>
+
+    <div class="container">
+        <div class="images" id="artist-images">
+            <div id="artist1-image" class="placeholder"></div>
+            <div id="artist2-image" class="placeholder"></div>
+        </div>
+    </div>
+
+    <div id="path" style="margin-top: 50px;"></div>
+
+    <script>
+        async function carregarNomesDosArtistas() {
+            const artist1Select = document.getElementById('artist1');
+            const artist2Select = document.getElementById('artist2');
+
+            const response = await fetch('http://127.0.0.1:5001/artist_ids');
+            const data = await response.json();
+            const artistIds = data.artist_ids;
+
+            for (const artistId of artistIds) {
+                const response = await fetch(`http://127.0.0.1:5001/artist_name/${artistId}`);
+                const artistData = await response.json();
+                
+                const option1 = document.createElement('option');
+                option1.value = artistId;
+                option1.innerText = artistData.artist_name;
+                artist1Select.appendChild(option1);
+
+                const option2 = document.createElement('option');
+                option2.value = artistId;
+                option2.innerText = artistData.artist_name;
+                artist2Select.appendChild(option2);
+            }
+        }
+
+        async function carregarImagem(artistId, imageId) {
+            const response = await fetch(`http://127.0.0.1:5001/artist/${artistId}`);
+            const data = await response.json();
+            const imageContainer = document.getElementById(imageId);
+            const image = document.createElement('img');
+            image.src = data.image_url;
+            image.alt = data.artist_name;
+            imageContainer.innerHTML = '';
+            imageContainer.appendChild(image);
+        }
+
+        async function mostrarMenorCaminho() {
+            const artist1Id = document.getElementById('artist1').value;
+            const artist2Id = document.getElementById('artist2').value;
+            if (!artist1Id || !artist2Id) {
+                alert('Por favor, selecione dois artistas.');
+                return;
+            }
+
+            const response = await fetch(`http://127.0.0.1:5001/shortest_path/${artist1Id}/${artist2Id}`);
+            const data = await response.json();
+            const path = data.path.map(node => node.nome).join(' -> ');
+            document.getElementById('path').innerText = `Menor caminho: ${path}`;
+            
+            preencherCaminho(data.path);
+        }
+
+        function preencherCaminho(nodes) {
+    const pathContainer = document.getElementById('artist-images');
+    pathContainer.innerHTML = '';
+
+    for (const node of nodes) {
+        const artistDiv = document.createElement('div');
+        const image = document.createElement('img');
+        const name = document.createElement('p');
+
+        image.src = node.imagem_url;
+        image.alt = node.nome;
+        name.textContent = node.nome;
+
+        artistDiv.style.textAlign = 'center';
+        name.style.marginTop = '5px';
+
+        artistDiv.appendChild(image);
+        artistDiv.appendChild(name);
+
+        pathContainer.appendChild(artistDiv);
+    }
+}
+
+        document.addEventListener('DOMContentLoaded', () => {
+            carregarNomesDosArtistas();
+        });
+        
+        document.getElementById('artist1').addEventListener('change', (event) => {
+            const artistId = event.target.value;
+            if (artistId) {
+                carregarImagem(artistId, 'artist1-image');
+            }
+        });
+
+        document.getElementById('artist2').addEventListener('change', (event) => {
+            const artistId = event.target.value;
+            if (artistId) {
+                carregarImagem(artistId, 'artist2-image');
+            }
+        });
+    </script>
+</body>
+</html>
