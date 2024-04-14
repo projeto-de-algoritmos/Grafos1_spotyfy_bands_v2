@@ -14,6 +14,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0048760  | Wellington Jonathan de Souza Rodrigues |
+| 20/2063346  | José Filipi Brito Souza |
 
 
 ## Sobre 

@@ -62,14 +62,15 @@
         <button onclick="mostrarMenorCaminho()">Encontrar Caminho</button>
     </div>
 
-    <div class="container">
+    <div class="container" style="display: flex; flex-direction: column;">
         <div class="images" id="artist-images">
             <div id="artist1-image" class="placeholder"></div>
             <div id="artist2-image" class="placeholder"></div>
         </div>
+        <div id="path" style="margin-top: 50px;"></div>
     </div>
+    
 
-    <div id="path" style="margin-top: 50px;"></div>
 
     <script>
         async function carregarNomesDosArtistas() {
@@ -96,17 +97,6 @@
             }
         }
 
-        async function carregarImagem(artistId, imageId) {
-            const response = await fetch(`http://127.0.0.1:5001/artist/${artistId}`);
-            const data = await response.json();
-            const imageContainer = document.getElementById(imageId);
-            const image = document.createElement('img');
-            image.src = data.image_url;
-            image.alt = data.artist_name;
-            imageContainer.innerHTML = '';
-            imageContainer.appendChild(image);
-        }
-
         async function mostrarMenorCaminho() {
             const artist1Id = document.getElementById('artist1').value;
             const artist2Id = document.getElementById('artist2').value;
@@ -118,51 +108,41 @@
             const response = await fetch(`http://127.0.0.1:5001/shortest_path/${artist1Id}/${artist2Id}`);
             const data = await response.json();
             const path = data.path.map(node => node.nome).join(' -> ');
+            if(!path) {
+                path = 'Inexistente'
+            }
             document.getElementById('path').innerText = `Menor caminho: ${path}`;
             
             preencherCaminho(data.path);
         }
 
         function preencherCaminho(nodes) {
-    const pathContainer = document.getElementById('artist-images');
-    pathContainer.innerHTML = '';
+            const pathContainer = document.getElementById('artist-images');
+            pathContainer.innerHTML = '';
 
-    for (const node of nodes) {
-        const artistDiv = document.createElement('div');
-        const image = document.createElement('img');
-        const name = document.createElement('p');
+            for (const node of nodes) {
+                const artistDiv = document.createElement('div');
+                const image = document.createElement('img');
+                const name = document.createElement('p');
 
-        image.src = node.imagem_url;
-        image.alt = node.nome;
-        name.textContent = node.nome;
+                image.src = node.imagem_url;
+                image.alt = node.nome;
+                name.textContent = node.nome;
 
-        artistDiv.style.textAlign = 'center';
-        name.style.marginTop = '5px';
+                artistDiv.style.textAlign = 'center';
+                name.style.marginTop = '5px';
 
-        artistDiv.appendChild(image);
-        artistDiv.appendChild(name);
+                artistDiv.appendChild(image);
+                artistDiv.appendChild(name);
 
-        pathContainer.appendChild(artistDiv);
-    }
-}
+                pathContainer.appendChild(artistDiv);
+            }
+        }
 
         document.addEventListener('DOMContentLoaded', () => {
             carregarNomesDosArtistas();
         });
         
-        document.getElementById('artist1').addEventListener('change', (event) => {
-            const artistId = event.target.value;
-            if (artistId) {
-                carregarImagem(artistId, 'artist1-image');
-            }
-        });
-
-        document.getElementById('artist2').addEventListener('change', (event) => {
-            const artistId = event.target.value;
-            if (artistId) {
-                carregarImagem(artistId, 'artist2-image');
-            }
-        });
     </script>
 </body>
 </html>
