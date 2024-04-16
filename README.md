@@ -40,13 +40,6 @@ Este trabalho visa utilizar grafos para explorar a conexão entre artistas no ap
 ## Imagem 3
 ![Distância entre 'Gene' e 'Drop Nineteens' 2](./assert/app3.png)
 
-# Vídeo da apresentação
-
-## Apresentação 1
-
-[Apresentação 1](./apresentacao.mp4)
-
-
 
 ## Instalação 
 **Linguagem**: Python 3.x<br>
