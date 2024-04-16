@@ -19,12 +19,38 @@
 ## Sobre 
 Este trabalho visa utilizar grafos para explorar a conexão entre artistas no aplicativo spotify.
 
+# Screenshots
+
+## Exemplo de Grafos 
+
+## grafo 01
+![Grafo 1](./assert/grafo.png)
+
+## grafo 02
+![Grafo 2](./assert/grafo1.png)
+
+# Aplicação
+
+## Imagem 1
+![Imagem 1](./assert/app1.png)
+
+## Imagem 2
+![Imagem 2](./assert/app2.png)
+
+## Imagem 3
+![Distância entre 'Gene' e 'Drop Nineteens' 2](./assert/app3.png)
+
+# Vídeo da apresentação
+
+## Apresentação 1
+
+[Apresentação 1](./apresentacao.mp4)
+
+
 
 ## Instalação 
 **Linguagem**: Python 3.x<br>
-**Framework**: jupyter-notebook<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
+**Banco de dados**: Neo4j<br>
 
 # Criação de um Grafo de Artistas Relacionados no Spotify
 
@@ -96,27 +122,7 @@ plotar_grafo(grafo_artistas)
 ``````
 
 
-# Exemplo de Grafos 
-
-## grafo 01
-![Grafo 1](./assert/grafo.png)
-
-## grafo 02
-![Grafo 2](./assert/grafo1.png)
-
-# Aplicação
-
-## Imagem 1
-![Imagem 1](./assert/app1.png)
-
-## Imagem 2
-![Imagem 2](./assert/app2.png)
-
-## Imagem 3
-![Distância entre 'Gene' e 'Drop Nineteens' 2](./assert/app3.png)
-
 # Vídeo da apresentação
 
-## Apresentação 1
 
-![Apresentação 1](./apresentacao.mp4)
+[Apresentação 1](./apresentacao.mp4)
