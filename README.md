@@ -7,8 +7,7 @@
 
 ## Grafos Artistas do Spotify
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+
 
 ## Alunos
 |Matrícula | Aluno |
@@ -20,8 +19,6 @@
 ## Sobre 
 Este trabalho visa utilizar grafos para explorar a conexão entre artistas no aplicativo spotify.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: Python 3.x<br>
